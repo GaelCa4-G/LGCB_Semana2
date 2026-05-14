@@ -60,5 +60,3 @@ alumnos, el costo es de $20; si son entre 50 y 100, $35; entre 20 y
 el algoritmo para determinar el costo del pasaje de cada alumno.
 Represente el algoritmo mediante el diagrama de flujo, el pseudo
 código y el diagrama N/S.
-
-## ❓ Preguntas y Dudas
